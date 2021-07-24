@@ -1,5 +1,11 @@
+/*
+This is a starter file.
+*/
+
 #include <iostream>
+#include <string>
 
 int main(){
-    std::cout<<"Hello";
+    std::string name = "Oly";
+    std::cout<<"Hello "<<name;
 }
